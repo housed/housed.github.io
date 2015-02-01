@@ -1,3 +1,3 @@
 Hello, world!
 
-thedylanhouse.com
+http://thedylanhouse.com
