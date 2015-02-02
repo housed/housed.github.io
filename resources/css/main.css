@@ -1,0 +1,43 @@
+a 
+{
+	color: #f7f7f7;
+	word-wrap: break-word;
+}
+
+h1, h2 
+{
+	font-family: 'PT Serif Caption', serif;
+    color: #f7f7f7;
+	font-weight: normal;
+}
+
+h1
+{
+	font-size: 88px;
+}
+
+h2
+{
+	font-size: 30px;
+}
+
+.w i {
+	font-size: 48px;
+	margin-left: 32px;
+	margin-right: 32px;
+}
+
+body
+{
+	-webkit-font-smoothing: antialiased;
+}
+
+.w
+{
+	margin-top: 60px;
+}
+
+.centered
+{
+	text-align: center;
+}
