@@ -61,6 +61,6 @@ a:hover, a:focus
 
 .w i {
 	font-size: 44px;
-	margin-left: 32px;
-	margin-right: 32px;
+	padding-left: 32px;
+	padding-right: 32px;
 }
