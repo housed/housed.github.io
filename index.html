@@ -31,20 +31,20 @@
       </div>
       <div class="row centered">
         <div class="col-lg-8 col-lg-offset-2 w">
-          <a href ="http://www.linkedin.com/in/housed" data-original-title="LinkedIn">
-            <i class="fa fa-linkedin"></i>
+          <a href ="http://www.linkedin.com/in/housed">
+            <i class="fa fa-linkedin" data-toggle="tooltip" data-placement="top" title="LinkedIn"></i>
           </a>
-          <a href ="http://www.github.com/housed" data-original-title="GitHub">
-            <i class="fa fa-github"></i>
+          <a href ="http://www.github.com/housed">
+            <i class="fa fa-github" data-toggle="tooltip" data-placement="top" title="GitHub"></i>
           </a>
-          <a href ="http://www.twitter.com/thedylanhouse" data-original-title="Twitter">
-            <i class="fa fa-twitter"></i>
+          <a href ="http://www.twitter.com/thedylanhouse">
+            <i class="fa fa-twitter" data-toggle="tooltip" data-placement="top" title="Twitter"></i>
           </a>
-          <a href ="resources/files/Dylan_House_Resume.pdf" data-original-title="Resume">
-            <i class="fa fa-file-text"></i>
+          <a href ="resources/files/Dylan_House_Resume.pdf">
+            <i class="fa fa-file-text" data-toggle="tooltip" data-placement="top" title="Résumé"></i>
           </a>
-          <a href ="mailto:thedylanhouse@gmail.com?Subject=Inquiry" data-original-title="Contact">
-            <i class="fa fa-envelope"></i>
+          <a href ="mailto:thedylanhouse@gmail.com?Subject=Inquiry">
+            <i class="fa fa-envelope" data-toggle="tooltip" data-placement="top" title="Contact"></i>
           </a>
         </div>
       </div>
@@ -63,6 +63,13 @@
     </script>
     <!-- BOOTSTRAP -->
     <script src="resources/js/bootstrap.min.js"></script>
+    <script>
+
+      $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+      })
+
+    </script>
     <!-- GOOGLE ANALYTICS  -->
     <script type="text/javascript">
       
