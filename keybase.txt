@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dylanhouse
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thedylanhouse.com
+  * I am dylanhouse (https://keybase.io/dylanhouse) on keybase.
+  * I have a public key ASD3bkpN7gSWnC31NnVsOabHb4CgvOrtaWUTeJNYeEOkrwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f76e4a4dee04969c2df536756c39a6c76f80a0bceaed6965137893587843a4af0a",
+      "host": "keybase.io",
+      "kid": "0120f76e4a4dee04969c2df536756c39a6c76f80a0bceaed6965137893587843a4af0a",
+      "uid": "bb69af21a90293f2a025248169552419",
+      "username": "dylanhouse"
+    },
+    "merkle_root": {
+      "ctime": 1684795875,
+      "hash": "a9814d18d430e9573884fa85173ec27e218ccdd71be81968e44dca56b4367e06ae652822b303416e852b05c2142b4142cbf649bdd98a6c904784214b36c7eee0",
+      "hash_meta": "558116018a7674a43a56d48c11b18b5bcfeec7b96e9046d6bde8922c06143946",
+      "seqno": 24483502
+    },
+    "service": {
+      "entropy": "UUFB9u376UM1RgSDOyM48et/",
+      "hostname": "thedylanhouse.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1684795926,
+  "expire_in": 504576000,
+  "prev": "db41976757acc18dd231c814d12e51b471aa1bf39c6dd5b38a4f82e0501312d1",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg925KTe4Elpwt9TZ1bDmmx2+AoLzq7WllE3iTWHhDpK8Kp3BheWxvYWTESpcCBsQg20GXZ1eswY3SMcgU0S5RtHGqG/OcbdWzik+C4FATEtHEIPwvR9dU7VGYzpJvNbe5TcSWArgUSoeOCKpMEaMcRfu+AgHCo3NpZ8RAjMKt0KTnvudaPdqcG12drE35StnEiNEBB2bsyRj6czgBaB/MfVl7s2gf0Qd4lURvizEOgcumP+X2JkebzCavCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHpCOsCUmzvQCYeGsXDqWmxLfioAM7vzNEQJJqAjfo8Bo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dylanhouse
+
+==================================================================
